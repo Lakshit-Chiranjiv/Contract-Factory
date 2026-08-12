@@ -1,0 +1,21 @@
+# Gitignore for Contract-Factory
+
+# Roadmap (private, not for github)
+web3-contracts-roadmap.md
+
+# Explanation files (beginner notes, not for github)
+**/explain.md
+
+# Local test files
+**/test-local/
+
+# Node modules (if any local tooling)
+node_modules/
+
+# Environment files
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
